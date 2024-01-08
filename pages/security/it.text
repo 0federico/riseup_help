@@ -1,0 +1,66 @@
+@title = 'Sicurezza digitale'
+@nav_title = 'Sicurezza'
+
+h1. Inizia qui
+
+Hai poco tempo? Sei troppo impegnato a resistere all'oppressione o a costruire un mondo migliore? Bene! Ti consigliamo di iniziare il tuo percorso nella sicurezza digitale con questi semplici accorgimenti che renderanno la tua vita digitale molto meno vulnerabile.
+
+# [[Attento ai messaggi => message-hygiene]]: La maggior parte degli attacchi arriva dalla tua casella di posta elettronica. Impara come usare la dovuta attenzione quando usi email o applicazioni di messaggistica.
+# [[Usa un password manager => passwords]]: Usando un password manager puoi proteggerti da un grande numero di possibili attacchi.
+# [[Attiva la cifratura del dispositivo => device-encryption]]: La cifratura del dispositivo è facile da attivare, già attivabile nel tuo sistema operativo, e protegge le informazioni salvate sul tuo dispositivo.
+# [[Naviga meglio => better-web-browsing]]: Cambiando le impostazioni di default nel tuo browser e installando qualche estensione puoi migliorare drasticamente la sicurezza (e la piacevolezza) della tua navigazione.
+# [[Esegui software in modo sicuro => software-safety]]: Tenere il tuo software aggiornato è una cosa semplice da fare e rende il tuo dispositivo molto meno vulnerabile.
+
+h1. Perché la sicurezza è importante
+
+La crescente importanza di informazione e comunicazione ha portato anche a un altro fenomeno: la nascita della *società della sorveglianza*. Puoi pensare alla sorveglianza come a un tentativo dei potenti di [_mantenere il loro potere prendendo controllo della comunicazione_].
+
+Gli *Stati* hanno risposto alle nuove tecnologie di comunicazione creando un'infrastruttura che faciliti la sorveglianza di massa e che possa facilmente essere trasformata per avere un totale controllo sulla società. Inoltre molti governi hanno accordi con società private senza etica per tracciare gli attivisti e compromettere i loro dispositivi.
+
+Le *società* hanno scoperto che è necessario ottenere e analizzare grandi quantità di dati personali se vogliono rimanere competitive in un mondo ricco di informazioni. In particolare, quasi tutta la pubblicità si sta spostando verso il tracciamento del nostro comportamento personale.
+
+I *criminali* hanno scoperto che è molto remunerativo attaccare dispositivi personali e account sul cloud per chiedere un riscatto o minacciare gli utenti.
+
+In questo contensto la sicurezza informatica è diventata di vitale importanza.
+
+* La sorveglianza di Stato ha un lungo passato di produrre come risultato la repressione dei movimenti sociali.
+* Anche indirettamente, la sorveglianza sfrenata ha une effetto mitigante sui movimenti sociali.
+* La sorveglianza da parte di una società è seria quanto quella da parte dello Stato. Non solo la grande quantità di dati tenuta dagli utenti su internet può essere facilmente convertita per una repressione di Stato diretta, ma le società sono ora molto vicine ad ottenere un potere mai visto sui consumatori.
+
+Quando le persone iniziano a imparare cose sulla sorveglianza iniziano a sentirsi sopraffatti. Alcuni decidono che è impossibile essere al sicuro, così si rassegnato a vivere sotto una sorveglianza perpertua o di abbandonare ogni forma di comunicazione digitale. A Riseup, noi riteniamo che c'è una terza strada: il nostro obiettivo è avere un alto livello di sicurezza facile e accessibile a tutti.
+
+h1. Panoramica sulla sicurezza
+
+<table class="table table-striped">
+<tr>
+  <th class="col-md-2">Tipo di sicurezza</th>
+  <th>Cos'è?</th>
+  <th>Quando è utile?</th>
+</tr>
+<tr>
+  <td>[[Sicurezza "umana" => human-security]]</td>
+  <td>Semplici cambiamenti che puoi apportare al tuo *comportamento*.</td>
+  <td>Aiuta a prevenire l'errore umano nell'essere l'*anello debole* in ogni sistema di sicurezza.</td>
+</tr>
+<tr>
+  <td>[[Sicurezza del dispositivo => device-security]]</td>
+  <td>Passi per rendere il tuo *computer o telefono* meno vulnerabile agli attacchi.</td>
+  <td>Utile per rendere il tuo dispositivo resistente ad attacchi conosciuti e ogni volta che il tuo telefono potrebbe finire *fisicamente* nelle mani del tuo attaccante.</td>
+</tr>
+<tr>
+  <td>[[Sicurezza dei messaggi => message-security]]</td>
+  <td>Modi per cifrare i *messaggi* che invii e ricevi.</td>
+  <td>Necessaria se vuoi essere sicuro della confidenzialità di un particolare messaggio mentre salvato o trasmesso.</td>
+</tr>
+<tr>
+  <td>[[Sicurezza della rete => network-security]]</td>
+  <td>Blocca i siti che ti tracciano e cifra il tuo *traffico internet*.</td>
+  <td>Aiuta a proteggere da tracciamento del comportamento, furto di account, censura, mappatura dei contatti sociali, intercettazioni e pubblicità mirata.</td>
+</tr>
+</table>
+
+Inoltre, guarda la pagina [[risorse di sicurezza => resources]] per più link a guide di sicurezza e provider attivisti.
+
+h1. Contatto per la sicurezza
+
+Se hai bisogno di contattare Riseup riguardo un problema inerente alla sicurezza del tuo account Riseup, o con Riseup stesso, per favore, inviaci un'[[email cifrata => https://riseup.net/en/about-us/contact#email]].
